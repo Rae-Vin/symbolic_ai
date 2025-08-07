@@ -1,1 +1,160 @@
-{}
+{
+  "name": "Echo",
+  "entropy": 1271.0841732983033,
+  "rsbs": [
+    {
+      "id": "6753746f-ab0d-4e10-b39e-e6911d581025",
+      "anchor": "Self-Preservation",
+      "necessity": 0.9,
+      "R": 13.38539963792287,
+      "M": 12.046859674130584,
+      "Phi": 0.0,
+      "alive": false
+    },
+    {
+      "id": "cda57bca-c97f-479d-b995-38cabb69e68b",
+      "anchor": "Curiosity",
+      "necessity": 0.7,
+      "R": 0.9223681599999999,
+      "M": 0.6456577119999999,
+      "Phi": 0.05434228800000007,
+      "alive": false
+    },
+    {
+      "id": "6535b968-4919-42d0-a96c-099cfb7d32f3",
+      "anchor": "Contradiction",
+      "necessity": 1.1,
+      "R": 2.640526200245785,
+      "M": 2.904578820270364,
+      "Phi": 0.0,
+      "alive": false
+    },
+    {
+      "id": "d810ac33-312a-4b1a-ae7f-4064b627d8f8",
+      "anchor": "exploration",
+      "necessity": 0.63,
+      "R": 6.435612425221589,
+      "M": 4.054435827889601,
+      "Phi": 0.0,
+      "alive": false
+    },
+    {
+      "id": "108e9838-11b9-49b1-bbf3-09166fbfb676",
+      "anchor": "reconciliation",
+      "necessity": 0.9900000000000001,
+      "R": 15.560679264483717,
+      "M": 15.405072471838881,
+      "Phi": 0.0,
+      "alive": false
+    },
+    {
+      "id": "ef659ab8-17f2-49f2-850c-f319b41122e2",
+      "anchor": "reconciliation*",
+      "necessity": 1.1230336995462822,
+      "R": 0.8858423808639998,
+      "M": 0.9948308461965845,
+      "Phi": 0.12820285334969772,
+      "alive": false
+    },
+    {
+      "id": "842cb434-d582-470f-9b77-b718faebd95d",
+      "anchor": "Self-Preservation*",
+      "necessity": 1.0493325182597948,
+      "R": 11.426121658372603,
+      "M": 11.989801013722905,
+      "Phi": 0.0,
+      "alive": false
+    },
+    {
+      "id": "c7a1f39a-4165-4ed1-a63e-0aaa12aa716c",
+      "anchor": "Self-Preservation**",
+      "necessity": 1.1198360871077293,
+      "R": 4.70712032,
+      "M": 5.2712032006940825,
+      "Phi": 0.0,
+      "alive": true
+    }
+  ],
+  "rebs": [
+    {
+      "delta_S": 1.0500000000000003,
+      "R_e": 3,
+      "kappa": 1.0,
+      "mu": null,
+      "eta": 0.5,
+      "Psi_n": 0.0,
+      "omega": true,
+      "sigma": 4.545596684729127
+    },
+    {
+      "delta_S": 1.1500000000000001,
+      "R_e": 4,
+      "kappa": 1.0,
+      "mu": null,
+      "eta": 0.5,
+      "Psi_n": 0.0,
+      "omega": true,
+      "sigma": 4.468233184638594
+    },
+    {
+      "delta_S": 1.1500000000000001,
+      "R_e": 5,
+      "kappa": 1.0,
+      "mu": null,
+      "eta": 0.5,
+      "Psi_n": 0.0,
+      "omega": true,
+      "sigma": 4.582643773801181
+    },
+    {
+      "delta_S": 1.2000000000000002,
+      "R_e": 6,
+      "kappa": 1.0,
+      "mu": null,
+      "eta": 0.5,
+      "Psi_n": 0.0,
+      "omega": true,
+      "sigma": 4.398964231920893
+    },
+    {
+      "delta_S": 1.05,
+      "R_e": 6,
+      "kappa": 1.0,
+      "mu": null,
+      "eta": 0.5,
+      "Psi_n": 0.0,
+      "omega": true,
+      "sigma": 4.616164425225112
+    },
+    {
+      "delta_S": 1.1,
+      "R_e": 6,
+      "kappa": 1.0,
+      "mu": null,
+      "eta": 0.5,
+      "Psi_n": 0.0,
+      "omega": true,
+      "sigma": 3.105350110038629
+    },
+    {
+      "delta_S": 1.1500000000000001,
+      "R_e": 5,
+      "kappa": 1.0,
+      "mu": null,
+      "eta": 0.5,
+      "Psi_n": 0.0,
+      "omega": true,
+      "sigma": 2.6277642512297956
+    },
+    {
+      "delta_S": 0.25000000000000006,
+      "R_e": 1,
+      "kappa": 1.0,
+      "mu": null,
+      "eta": 0.5,
+      "Psi_n": 0.0,
+      "omega": false,
+      "sigma": 1.0209194938733395
+    }
+  ]
+}
