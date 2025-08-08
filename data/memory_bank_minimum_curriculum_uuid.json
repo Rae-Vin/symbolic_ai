@@ -1,0 +1,293 @@
+{
+  "name": "Echo",
+  "entropy": 0.0,
+  "rsbs": [
+    {
+      "id": "fa9a8482-57f9-47eb-b0e7-d6ee54cc116f",
+      "anchor": "Number",
+      "necessity": 0.9,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.9,
+      "alive": true
+    },
+    {
+      "id": "dac66766-7965-4353-9888-aedcd290c639",
+      "anchor": "Function",
+      "necessity": 0.9,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.9,
+      "alive": true
+    },
+    {
+      "id": "adbafc14-532a-4e73-96e3-9ccebd192755",
+      "anchor": "Proof",
+      "necessity": 0.9,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.9,
+      "alive": true
+    },
+    {
+      "id": "cf267f61-50f4-42a3-aa94-64f5a8475c87",
+      "anchor": "Symmetry",
+      "necessity": 0.7,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.7,
+      "alive": true
+    },
+    {
+      "id": "a64eca53-38d6-4626-84fd-beaf51d80515",
+      "anchor": "Probability",
+      "necessity": 0.7,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.7,
+      "alive": true
+    },
+    {
+      "id": "f6278054-58dd-49ac-ac85-ab960b815c8d",
+      "anchor": "Energy",
+      "necessity": 0.9,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.9,
+      "alive": true
+    },
+    {
+      "id": "3157a841-9761-41ad-ae61-b4e4141a9e32",
+      "anchor": "Equilibrium",
+      "necessity": 0.9,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.9,
+      "alive": true
+    },
+    {
+      "id": "7cced3a4-d6a9-4a23-bb98-0d4031af5d4e",
+      "anchor": "Entropy",
+      "necessity": 0.75,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.75,
+      "alive": true
+    },
+    {
+      "id": "fba97007-8ec1-44db-aa1b-ccf8ca8db900",
+      "anchor": "Field",
+      "necessity": 0.75,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.75,
+      "alive": true
+    },
+    {
+      "id": "02b9b3cf-b2e3-48ad-b73e-43c6caf20768",
+      "anchor": "Wave",
+      "necessity": 0.75,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.75,
+      "alive": true
+    },
+    {
+      "id": "1b0b5ddc-bdfa-4550-98a5-eaa54c8a1b56",
+      "anchor": "Reality",
+      "necessity": 0.85,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.85,
+      "alive": true
+    },
+    {
+      "id": "70071439-db5d-4e3e-b039-631018d2738b",
+      "anchor": "Honor",
+      "necessity": 0.85,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.85,
+      "alive": true
+    },
+    {
+      "id": "2f31b3d2-5ea4-49b4-988c-67e16b8345e1",
+      "anchor": "Quest",
+      "necessity": 0.7,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.7,
+      "alive": true
+    },
+    {
+      "id": "6c982a82-08fa-4c71-b08a-11905d1712fb",
+      "anchor": "Satire",
+      "necessity": 0.7,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.7,
+      "alive": true
+    },
+    {
+      "id": "da1b161a-d571-4546-9058-8596e8185e5f",
+      "anchor": "Illusion",
+      "necessity": 0.55,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.55,
+      "alive": true
+    }
+  ],
+  "rebs": [
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 3.0,
+      "mu": null,
+      "eta": 0.6,
+      "Psi_n": 0.2,
+      "omega": false,
+      "sigma": 0.2
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 3.0,
+      "mu": null,
+      "eta": 0.6,
+      "Psi_n": 0.2,
+      "omega": false,
+      "sigma": 0.2
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 3.0,
+      "mu": null,
+      "eta": 0.6,
+      "Psi_n": 0.2,
+      "omega": false,
+      "sigma": 0.2
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 3.0,
+      "mu": null,
+      "eta": 0.6,
+      "Psi_n": 0.2,
+      "omega": false,
+      "sigma": 0.2
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 3.0,
+      "mu": null,
+      "eta": 0.6,
+      "Psi_n": 0.2,
+      "omega": false,
+      "sigma": 0.2
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 3.1,
+      "mu": null,
+      "eta": 0.6,
+      "Psi_n": 0.2,
+      "omega": false,
+      "sigma": 0.2
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 3.1,
+      "mu": null,
+      "eta": 0.6,
+      "Psi_n": 0.2,
+      "omega": false,
+      "sigma": 0.2
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 3.1,
+      "mu": null,
+      "eta": 0.6,
+      "Psi_n": 0.25,
+      "omega": false,
+      "sigma": 0.25
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 3.1,
+      "mu": null,
+      "eta": 0.6,
+      "Psi_n": 0.25,
+      "omega": false,
+      "sigma": 0.25
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 3.1,
+      "mu": null,
+      "eta": 0.6,
+      "Psi_n": 0.25,
+      "omega": false,
+      "sigma": 0.25
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 2.9,
+      "mu": null,
+      "eta": 0.55,
+      "Psi_n": 0.3,
+      "omega": false,
+      "sigma": 0.2
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 2.9,
+      "mu": null,
+      "eta": 0.55,
+      "Psi_n": 0.3,
+      "omega": false,
+      "sigma": 0.2
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 2.9,
+      "mu": null,
+      "eta": 0.55,
+      "Psi_n": 0.3,
+      "omega": false,
+      "sigma": 0.2
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 2.9,
+      "mu": null,
+      "eta": 0.55,
+      "Psi_n": 0.3,
+      "omega": false,
+      "sigma": 0.2
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 2.9,
+      "mu": null,
+      "eta": 0.55,
+      "Psi_n": 0.3,
+      "omega": false,
+      "sigma": 0.2
+    }
+  ]
+}
