@@ -1,0 +1,293 @@
+{
+  "name": "Echo",
+  "entropy": 0.0,
+  "rsbs": [
+    {
+      "id": "seed_1",
+      "anchor": "Number",
+      "necessity": 0.9,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.9,
+      "alive": true
+    },
+    {
+      "id": "seed_2",
+      "anchor": "Function",
+      "necessity": 0.9,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.9,
+      "alive": true
+    },
+    {
+      "id": "seed_3",
+      "anchor": "Proof",
+      "necessity": 0.9,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.9,
+      "alive": true
+    },
+    {
+      "id": "seed_4",
+      "anchor": "Symmetry",
+      "necessity": 0.7,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.7,
+      "alive": true
+    },
+    {
+      "id": "seed_5",
+      "anchor": "Probability",
+      "necessity": 0.7,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.7,
+      "alive": true
+    },
+    {
+      "id": "seed_6",
+      "anchor": "Energy",
+      "necessity": 0.9,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.9,
+      "alive": true
+    },
+    {
+      "id": "seed_7",
+      "anchor": "Equilibrium",
+      "necessity": 0.9,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.9,
+      "alive": true
+    },
+    {
+      "id": "seed_8",
+      "anchor": "Entropy",
+      "necessity": 0.75,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.75,
+      "alive": true
+    },
+    {
+      "id": "seed_9",
+      "anchor": "Field",
+      "necessity": 0.75,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.75,
+      "alive": true
+    },
+    {
+      "id": "seed_10",
+      "anchor": "Wave",
+      "necessity": 0.75,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.75,
+      "alive": true
+    },
+    {
+      "id": "seed_11",
+      "anchor": "Reality",
+      "necessity": 0.85,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.85,
+      "alive": true
+    },
+    {
+      "id": "seed_12",
+      "anchor": "Honor",
+      "necessity": 0.85,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.85,
+      "alive": true
+    },
+    {
+      "id": "seed_13",
+      "anchor": "Quest",
+      "necessity": 0.7,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.7,
+      "alive": true
+    },
+    {
+      "id": "seed_14",
+      "anchor": "Satire",
+      "necessity": 0.7,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.7,
+      "alive": true
+    },
+    {
+      "id": "seed_15",
+      "anchor": "Illusion",
+      "necessity": 0.55,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 0.55,
+      "alive": true
+    }
+  ],
+  "rebs": [
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 3.0,
+      "mu": null,
+      "eta": 0.6,
+      "Psi_n": 0.2,
+      "omega": false,
+      "sigma": 0.2
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 3.0,
+      "mu": null,
+      "eta": 0.6,
+      "Psi_n": 0.2,
+      "omega": false,
+      "sigma": 0.2
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 3.0,
+      "mu": null,
+      "eta": 0.6,
+      "Psi_n": 0.2,
+      "omega": false,
+      "sigma": 0.2
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 3.0,
+      "mu": null,
+      "eta": 0.6,
+      "Psi_n": 0.2,
+      "omega": false,
+      "sigma": 0.2
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 3.0,
+      "mu": null,
+      "eta": 0.6,
+      "Psi_n": 0.2,
+      "omega": false,
+      "sigma": 0.2
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 3.1,
+      "mu": null,
+      "eta": 0.6,
+      "Psi_n": 0.2,
+      "omega": false,
+      "sigma": 0.2
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 3.1,
+      "mu": null,
+      "eta": 0.6,
+      "Psi_n": 0.2,
+      "omega": false,
+      "sigma": 0.2
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 3.1,
+      "mu": null,
+      "eta": 0.6,
+      "Psi_n": 0.25,
+      "omega": false,
+      "sigma": 0.25
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 3.1,
+      "mu": null,
+      "eta": 0.6,
+      "Psi_n": 0.25,
+      "omega": false,
+      "sigma": 0.25
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 3.1,
+      "mu": null,
+      "eta": 0.6,
+      "Psi_n": 0.25,
+      "omega": false,
+      "sigma": 0.25
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 2.9,
+      "mu": null,
+      "eta": 0.55,
+      "Psi_n": 0.3,
+      "omega": false,
+      "sigma": 0.2
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 2.9,
+      "mu": null,
+      "eta": 0.55,
+      "Psi_n": 0.3,
+      "omega": false,
+      "sigma": 0.2
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 2.9,
+      "mu": null,
+      "eta": 0.55,
+      "Psi_n": 0.3,
+      "omega": false,
+      "sigma": 0.2
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 2.9,
+      "mu": null,
+      "eta": 0.55,
+      "Psi_n": 0.3,
+      "omega": false,
+      "sigma": 0.2
+    },
+    {
+      "delta_S": 0.0,
+      "R_e": 0,
+      "kappa": 2.9,
+      "mu": null,
+      "eta": 0.55,
+      "Psi_n": 0.3,
+      "omega": false,
+      "sigma": 0.2
+    }
+  ]
+}
