@@ -13,6 +13,9 @@ class SymbolicAgent:
         self.entropy = 0.0
 
     def add_anchor(self, anchor: str, necessity: float):
+        base = anchor.replace("*", "")
+        if any(a.anchor.replace("*", "") == base for a in self.rsbs):
+            return  # 🧠 Do not add symbolically redundant anchor
         self.rsbs.append(RSBS(anchor, necessity))
         self.rebs.append(REBS())
 

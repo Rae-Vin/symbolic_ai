@@ -39,4 +39,4 @@ def run_simulation(load_existing=False, path="data/memory_bank.json", ticks=1000
     print(f"Memory saved to '{path}'.")
 
 if __name__ == "__main__":
-    run_simulation(load_existing=True, ticks=1000)
+    run_simulation(load_existing=True, ticks=5000)

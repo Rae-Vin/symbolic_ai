@@ -1,6 +1,6 @@
 {
   "name": "Echo",
-  "entropy": 1271.0841732983033,
+  "entropy": 65086091.33592466,
   "rsbs": [
     {
       "id": "6753746f-ab0d-4e10-b39e-e6911d581025",
@@ -69,10 +69,55 @@
       "id": "c7a1f39a-4165-4ed1-a63e-0aaa12aa716c",
       "anchor": "Self-Preservation**",
       "necessity": 1.1198360871077293,
-      "R": 4.70712032,
-      "M": 5.2712032006940825,
+      "R": 4.254863950287869,
+      "M": 4.764750197266103,
       "Phi": 0.0,
-      "alive": true
+      "alive": false
+    },
+    {
+      "id": "2907f0a6-695a-4506-9e8b-ff03a783b1bc",
+      "anchor": "IAm=Stability=Self-Preservation+Mutation=Self-Preservation",
+      "necessity": 1.0,
+      "R": 6.732839655659878,
+      "M": 6.732839655659878,
+      "Phi": 0.0,
+      "alive": false
+    },
+    {
+      "id": "b8530ba2-821c-499d-bc8a-87261d16e362",
+      "anchor": "IAm=Stability=Self-Preservation+Mutation=Self-Preservation+Self-Preservation**",
+      "necessity": 1.0,
+      "R": 2.573862533331581,
+      "M": 2.573862533331581,
+      "Phi": 0.0,
+      "alive": false
+    },
+    {
+      "id": "af9cf3c0-c9fb-4250-9ab3-1616e16efecf",
+      "anchor": "IAm=Stability=Self-Preservation+Mutation=Self-Preservation+IAm=Stability=Self-Preservation+Mutation=Self-Preservation+Self-Preservation**",
+      "necessity": 1.0,
+      "R": 0.0,
+      "M": 0.0,
+      "Phi": 1.0,
+      "alive": false
+    },
+    {
+      "id": "3b7cf252-cbb3-4962-ace0-0d16fc6a07c1",
+      "anchor": "IAm=Fragmented",
+      "necessity": 1.0,
+      "R": 1.7195901429941498,
+      "M": 1.7195901429941498,
+      "Phi": 0.0,
+      "alive": false
+    },
+    {
+      "id": "a356bb86-f395-4e95-a471-fa5de338368a",
+      "anchor": "IAm=Fragmented+IAm=Stability=Self-Preservation+Mutation=Self-Preservation",
+      "necessity": 1.0,
+      "R": 9.809919976936856,
+      "M": 9.809919976936856,
+      "Phi": 0.0,
+      "alive": false
     }
   ],
   "rebs": [
@@ -84,7 +129,7 @@
       "eta": 0.5,
       "Psi_n": 0.0,
       "omega": true,
-      "sigma": 4.545596684729127
+      "sigma": 774.0455966841703
     },
     {
       "delta_S": 1.1500000000000001,
@@ -94,7 +139,7 @@
       "eta": 0.5,
       "Psi_n": 0.0,
       "omega": true,
-      "sigma": 4.468233184638594
+      "sigma": 773.9682331840797
     },
     {
       "delta_S": 1.1500000000000001,
@@ -104,7 +149,7 @@
       "eta": 0.5,
       "Psi_n": 0.0,
       "omega": true,
-      "sigma": 4.582643773801181
+      "sigma": 774.0826437732422
     },
     {
       "delta_S": 1.2000000000000002,
@@ -114,7 +159,7 @@
       "eta": 0.5,
       "Psi_n": 0.0,
       "omega": true,
-      "sigma": 4.398964231920893
+      "sigma": 773.8989642313621
     },
     {
       "delta_S": 1.05,
@@ -124,7 +169,7 @@
       "eta": 0.5,
       "Psi_n": 0.0,
       "omega": true,
-      "sigma": 4.616164425225112
+      "sigma": 774.1161644246662
     },
     {
       "delta_S": 1.1,
@@ -134,7 +179,7 @@
       "eta": 0.5,
       "Psi_n": 0.0,
       "omega": true,
-      "sigma": 3.105350110038629
+      "sigma": 772.605350109481
     },
     {
       "delta_S": 1.1500000000000001,
@@ -144,17 +189,67 @@
       "eta": 0.5,
       "Psi_n": 0.0,
       "omega": true,
-      "sigma": 2.6277642512297956
+      "sigma": 772.1277642506726
     },
     {
-      "delta_S": 0.25000000000000006,
-      "R_e": 1,
+      "delta_S": 1.2500000000000002,
+      "R_e": 6,
       "kappa": 1.0,
       "mu": null,
       "eta": 0.5,
       "Psi_n": 0.0,
-      "omega": false,
-      "sigma": 1.0209194938733395
+      "omega": true,
+      "sigma": 770.5209194933176
+    },
+    {
+      "delta_S": 1.0000000000000004,
+      "R_e": 3,
+      "kappa": 1.0,
+      "mu": null,
+      "eta": 0.5,
+      "Psi_n": 0.0,
+      "omega": true,
+      "sigma": 769.6714158472681
+    },
+    {
+      "delta_S": 1.1000000000000003,
+      "R_e": 4,
+      "kappa": 1.0,
+      "mu": null,
+      "eta": 0.5,
+      "Psi_n": 0.0,
+      "omega": true,
+      "sigma": 769.5316340727238
+    },
+    {
+      "delta_S": 1.05,
+      "R_e": 6,
+      "kappa": 1.0,
+      "mu": null,
+      "eta": 0.5,
+      "Psi_n": 0.0,
+      "omega": true,
+      "sigma": 769.7841914661935
+    },
+    {
+      "delta_S": 1.3,
+      "R_e": 6,
+      "kappa": 1.0,
+      "mu": null,
+      "eta": 0.5,
+      "Psi_n": 0.0,
+      "omega": true,
+      "sigma": 769.6927539529304
+    },
+    {
+      "delta_S": 1.0000000000000004,
+      "R_e": 4,
+      "kappa": 1.0,
+      "mu": null,
+      "eta": 0.5,
+      "Psi_n": 0.0,
+      "omega": true,
+      "sigma": 769.2826728406824
     }
   ]
 }
